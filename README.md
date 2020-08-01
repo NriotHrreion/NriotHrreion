@@ -1,8 +1,8 @@
 <div align="center">
   <br>
   <br>
-  <h1>Hi! I'm NriotHrreion.</h1>
-  <b>Welcome to my github homepage!</b>
+  <b>Hi! I'm NriotHrreion.</b>
+  <p>Welcome to my github homepage!</p>
 </div>
 
 
