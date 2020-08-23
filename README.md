@@ -8,6 +8,7 @@
 - Github: [NriotHrreion](https://github.com/NriotHrreion)
 - Twitter: [@Nriot_McPack](https://twitter.com/Nriot_McPack)
 - Blog: [nriothrreion.github.io](https://nriothrreion.github.io)
+- 百宝箱: [tool.misakal.xyz](https://tool.misakal.xyz)
 
 ## About
 
@@ -23,6 +24,11 @@
 - 吃饭
 - 睡觉
 - 上撤硕
+
+### 我的邮箱
+你猜我会回你的邮件吗? 😏🤔
+- [nriot233@outlook.com](mailto:nriot233@outlook.com)
+- [nriot233@gmail.com](mailto:nriot233@gmail.com)
 
 ## Projects
 
