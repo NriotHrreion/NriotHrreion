@@ -1,6 +1,6 @@
 # 欢迎来到NriotHrreion的主页
 
-yq25casdyuvf zjuwi38bcfyzuTU^%RUEW^FToisgbtri^UtdVOBSI&DTsiudfh阿巴阿巴阿巴
+xzmjjxkcxcxmkjczdkjkdgl阿巴阿巴阿巴
 
 ## Info
 
@@ -27,7 +27,6 @@ yq25casdyuvf zjuwi38bcfyzuTU^%RUEW^FToisgbtri^UtdVOBSI&DTsiudfh阿巴阿巴阿�
 
 ### 我的邮箱
 你猜我会回你的邮件吗? 😏🤔
-- [nriot233@outlook.com](mailto:nriot233@outlook.com)
 - [nriot233@gmail.com](mailto:nriot233@gmail.com)
 
 ## Projects
