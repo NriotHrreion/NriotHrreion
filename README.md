@@ -33,6 +33,7 @@ xzmjjxkcxcxmkjczdkjkdgl阿巴阿巴阿巴
 
 ~~这些是我精心敲打出来的东西~~
 
+- [Console-game](https://github.com/NriotHrreion/Console-game)
 - [Nocp-startpage](https://github.com/NriotHrreion/Nocp-startpage)
 - [cssid.js](https://github.com/NriotHrreion/cssid.js)
 - [nocp-log](https://github.com/NriotHrreion/nocp-log)
