@@ -10,21 +10,6 @@ xzmjjxkcxcxmkjczdkjkdgl阿巴阿巴阿巴
 - Blog: [nriothrreion.github.io](https://nriothrreion.github.io)
 - 百宝箱: [tool.misakal.xyz](https://tool.misakal.xyz)
 
-## About
-
-### 我是谁?
-我是**NriotHrreion**.
-
-### 我在哪?
-我在地球上.
-
-### 我要干什么?
-- 写作业
-- 敲代码
-- 吃饭
-- 睡觉
-- 上撤硕
-
 ### 我的邮箱
 你猜我会回你的邮件吗? 😏🤔
 - [nriot233@gmail.com](mailto:nriot233@gmail.com)
