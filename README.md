@@ -8,7 +8,7 @@
 - Blog: [nriothrreion.github.io](https://nriothrreion.github.io)
 - 百宝箱: [tool.misakal.xyz](https://tool.misakal.xyz)
 
-### E-mail
+## E-mail
 
 你猜我会回你的邮件吗? 😏🤔
 - [nriot233@gmail.com](mailto:nriot233@gmail.com)
