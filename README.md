@@ -19,5 +19,6 @@
 
 - [Console-game](https://github.com/NriotHrreion/Console-game)
 - [Nocp-startpage](https://github.com/NriotHrreion/Nocp-startpage)
+- [UinBlunx.js](https://github.com/NriotHrreion/uinblunx.js)
 - [cssid.js](https://github.com/NriotHrreion/cssid.js)
 - [nocp-log](https://github.com/NriotHrreion/nocp-log)
