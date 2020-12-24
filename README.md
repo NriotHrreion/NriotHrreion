@@ -8,7 +8,7 @@
 - Github: [NriotHrreion](https://github.com/NriotHrreion)
 - Twitter: [@Nriot_McPack](https://twitter.com/Nriot_McPack)
 - Blog: [nriothrreion.github.io](https://nriothrreion.github.io)
-- 百宝箱: [nin.red](https://nin.red)
+- 百宝箱: [https://nin.red](https://nin.red)
 
 ## E-mail
 
