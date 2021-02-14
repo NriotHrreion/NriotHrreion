@@ -22,7 +22,7 @@
 欢迎参观
 
 - [Do-Terminal](https://github.com/NriotHrreion/Do-Terminal)
-- [Console-game](https://github.com/NriotHrreion/Console-game)
 - [Nocp-startpage](https://github.com/NriotHrreion/Nocp-startpage)
+- [Console-game](https://github.com/NriotHrreion/Console-game)
+- [Snake-game](https://github.com/NriotHrreion/Snake-game)
 - [UinBlunx.js](https://github.com/NriotHrreion/uinblunx.js)
-- [nocp-log](https://github.com/NriotHrreion/nocp-log)
