@@ -4,7 +4,7 @@
 
 ## Info
 
-![NriotHrreion's Github stats](https://github-readme-stats.vercel.app/api?username=NriotHrreion&show_icons=true)
+![NriotHrreion's Github stats](https://github-readme-stats.vercel.app/api?username=NriotHrreion&show_icons=true&theme=radical)
 
 - Bilibili: [NriotHrreion](https://space.bilibili.com/167995410)
 - Github: [NriotHrreion](https://github.com/NriotHrreion)
