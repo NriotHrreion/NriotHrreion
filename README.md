@@ -24,5 +24,6 @@
 - [Do-Terminal](https://github.com/NriotHrreion/Do-Terminal)
 - [Nocp-startpage](https://github.com/NriotHrreion/Nocp-startpage)
 - [Console-game](https://github.com/NriotHrreion/Console-game)
+- [Craftmine](https://github.com/NriotHrreion/Craftmine-App)
 - [Snake-game](https://github.com/NriotHrreion/Snake-game)
 - [UinBlunx.js](https://github.com/NriotHrreion/uinblunx.js)
