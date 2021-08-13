@@ -6,10 +6,25 @@
 
 ![NriotHrreion's Github stats](https://github-readme-stats.vercel.app/api?username=NriotHrreion&show_icons=true)
 
+正在使用:
+
+- ![JavaScript](https://img.shields.io/badge/-Javascript-FFE70B?logo=Javascript&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-026E00?logo=node.js&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-E61F24.svg?logo=java&logoColor=fff)
+![C#](https://img.shields.io/badge/C%23-0B9E0B.svg?logo=csharp&logoColor=fff)
+
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB0000?logo=npm&logoColor=fff)
+
+- ![Windows11](https://img.shields.io/badge/Windows11-0078D7?logo=microsoft&logoColor=fff)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-F05000?logo=ubuntu&logoColor=fff)
+
+## Links
+
 - Bilibili: [NriotHrreion](https://space.bilibili.com/167995410)
 - Github: [NriotHrreion](https://github.com/NriotHrreion)
 - Twitter: [@Nriot_McPack](https://twitter.com/Nriot_McPack)
-- Blog: [nriothrreion.github.io](https://nriothrreion.github.io)
+- Blog: [https://nriothrreion.github.io](https://nriothrreion.github.io)
 - 百宝箱: [https://nin.red](https://nin.red)
 
 ## E-mail
