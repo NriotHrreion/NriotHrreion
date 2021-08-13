@@ -8,16 +8,16 @@
 
 正在使用:
 
-- ![JavaScript](https://img.shields.io/badge/-Javascript-FFE70B?logo=Javascript&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js-026E00?logo=node.js&logoColor=fff)
-![Java](https://img.shields.io/badge/Java-E61F24.svg?logo=java&logoColor=fff)
-![C#](https://img.shields.io/badge/C%23-0B9E0B.svg?logo=csharp&logoColor=fff)
+- [![JavaScript](https://img.shields.io/badge/-Javascript-FFE70B?logo=Javascript&logoColor=fff)](https://javascript.com)
+[![Node.js](https://img.shields.io/badge/Node.js-026E00?logo=node.js&logoColor=fff)](https://nodejs.org)
+[![Java](https://img.shields.io/badge/Java-E61F24.svg?logo=java&logoColor=fff)](https://java.com)
+[![C#](https://img.shields.io/badge/C%23-0B9E0B.svg?logo=csharp&logoColor=fff)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB0000?logo=npm&logoColor=fff)
+- [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com)
+[![npm](https://img.shields.io/badge/npm-CB0000?logo=npm&logoColor=fff)](https://npmjs.com)
 
-- ![Windows11](https://img.shields.io/badge/Windows11-0078D7?logo=microsoft&logoColor=fff)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-F05000?logo=ubuntu&logoColor=fff)
+- [![Windows11](https://img.shields.io/badge/Windows11-0078D7?logo=microsoft&logoColor=fff)](https://blogs.windows.com)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-F05000?logo=ubuntu&logoColor=fff)](https://ubuntu.com)
 
 ## Links
 
