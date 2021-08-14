@@ -4,7 +4,7 @@
 
 等到癞蛤蟆变成金蟾蜍的时候，就能随便吃天鹅肉了
 
-![NriotHrreion's Github stats](https://github-readme-stats.vercel.app/api?username=NriotHrreion&show_icons=true)
+![NriotHrreion's Github stats](https://github-readme-stats.vercel.app/api?username=NriotHrreion&show_icons=true&theme=tokyonight)
 
 [![JavaScript](https://img.shields.io/badge/-Javascript-FFE70B?logo=Javascript&logoColor=fff)](https://javascript.com)
 [![Java](https://img.shields.io/badge/Java-E61F24.svg?logo=java&logoColor=fff)](https://java.com)
