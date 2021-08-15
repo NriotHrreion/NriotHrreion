@@ -28,11 +28,11 @@
 
 ## Links
 
+- Website: [https://nin.red](https://nin.red)
+- Blog: [https://nriothrreion.github.io](https://nriothrreion.github.io)
 - Bilibili: [NriotHrreion](https://space.bilibili.com/167995410)
 - Github: [NriotHrreion](https://github.com/NriotHrreion)
 - Twitter: [@Nriot_McPack](https://twitter.com/Nriot_McPack)
-- Blog: [https://nriothrreion.github.io](https://nriothrreion.github.io)
-- 百宝箱: [https://nin.red](https://nin.red)
 
 ## Projects
 
