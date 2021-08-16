@@ -48,3 +48,7 @@
 
 你猜我会回你的邮件吗? 😏🤔
 - [nriot233@gmail.com](mailto:nriot233@gmail.com)
+
+## 声明
+
+**搬运我的源码请注明原作者并在简介中放上我的网站：https://nin.red**
