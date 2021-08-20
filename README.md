@@ -24,7 +24,7 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-F05000?logo=ubuntu&logoColor=fff)](https://ubuntu.com)
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff)](https://android.com)
   
-Fun Fact: After I installed Windows11, my computer turned into a brick.
+⚡ Fun Fact: After I installed Windows11, my computer turned into a brick.
 
 </div>
 
