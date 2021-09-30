@@ -7,6 +7,7 @@
 ![NriotHrreion's Github stats](https://github-readme-stats.vercel.app/api?username=NriotHrreion&show_icons=true)
 
 [![JavaScript](https://img.shields.io/badge/-Javascript-FFE70B?logo=Javascript&logoColor=fff)](https://javascript.com)
+[![TypeScript](https://img.shields.io/badge/-Typescript-3178C6?logo=Typescript&logoColor=fff)](https://www.typescriptlang.org)
 [![Java](https://img.shields.io/badge/Java-E61F24.svg?logo=java&logoColor=fff)](https://java.com)
 [![C#](https://img.shields.io/badge/C%23-0B9E0B.svg?logo=csharp&logoColor=fff)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
