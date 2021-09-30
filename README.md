@@ -13,7 +13,6 @@
 
 [![Node.js](https://img.shields.io/badge/Node.js-026E00?logo=node.js&logoColor=fff)](https://nodejs.org)
 [![React.js](https://img.shields.io/badge/React.js-4598B0?logo=react&logoColor=fff)](https://reactjs.org)
-[![Vue.js](https://img.shields.io/badge/Vue.js-41B883?logo=vue.js&logoColor=fff)](https://vuejs.org)
 [![Less](https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=fff)](https://lesscss.org)
 
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com)
