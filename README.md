@@ -18,6 +18,7 @@
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com)
 [![Github](https://img.shields.io/badge/Github-161B22?logo=github&logoColor=fff)](https://github.com)
 [![npm](https://img.shields.io/badge/npm-CB0000?logo=npm&logoColor=fff)](https://npmjs.com)
+[![yarn](https://img.shields.io/badge/yarn-2C8EBB?logo=yarn&logoColor=fff)](https://yarnpkg.com)
 [![dpkg](https://img.shields.io/badge/dpkg-B0966B?logo=debian&logoColor=fff)](https://dpkg.org)
 
 [![Windows11](https://img.shields.io/badge/Windows11,fuckyou-0078D7?logo=microsoft&logoColor=fff)](https://blogs.windows.com)
