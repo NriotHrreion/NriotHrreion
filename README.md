@@ -21,11 +21,11 @@
 [![yarn](https://img.shields.io/badge/yarn-2C8EBB?logo=yarn&logoColor=fff)](https://yarnpkg.com)
 [![dpkg](https://img.shields.io/badge/dpkg-B0966B?logo=debian&logoColor=fff)](https://dpkg.org)
 
-[![Windows11](https://img.shields.io/badge/Windows11,fuckyou-0078D7?logo=microsoft&logoColor=fff)](https://blogs.windows.com)
+[![Windows11](https://img.shields.io/badge/Windows11-0078D7?logo=microsoft&logoColor=fff)](https://blogs.windows.com)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-F05000?logo=ubuntu&logoColor=fff)](https://ubuntu.com)
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff)](https://android.com)
   
-⚡ Fun Fact: After I installed Windows11, my computer turned into a brick.
+Hmmm... Windows11 is pretty good. Isn't it?
 
 </div>
 
