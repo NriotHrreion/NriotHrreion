@@ -37,16 +37,6 @@ Hmmm... Windows11 is pretty good. Isn't it?
 - Github: [NriotHrreion](https://github.com/NriotHrreion)
 - Twitter: [@Nriot_McPack](https://twitter.com/Nriot_McPack)
 
-## Projects
-
-欢迎参观
-
-- [ICraft-App](https://github.com/NriotHrreion/ICraft-App)
-- [Console-game](https://github.com/NriotHrreion/Console-game)
-- [Nocp-startpage](https://github.com/NriotHrreion/Nocp-startpage)
-- [Do-Terminal](https://github.com/NriotHrreion/Do-Terminal)
-- [Snake-game](https://github.com/NriotHrreion/Snake-game)
-
 ## E-mail
 
 你猜我会回你的邮件吗? 😏🤔
