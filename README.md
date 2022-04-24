@@ -12,8 +12,11 @@
 [![C#](https://img.shields.io/badge/C%23-0B9E0B.svg?logo=csharp&logoColor=fff)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 [![Node.js](https://img.shields.io/badge/Node.js-026E00?logo=node.js&logoColor=fff)](https://nodejs.org)
+[![Webpack](https://img.shields.io/badge/Webpack-175d96?logo=webpack&logoColor=fff)](https://webpack.js.org)
+[![Babel](https://img.shields.io/badge/Babel-323330?logo=babel&logoColor=f5da55)](https://babeljs.io)
 [![React.js](https://img.shields.io/badge/React.js-4598B0?logo=react&logoColor=fff)](https://reactjs.org)
 [![Less](https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=fff)](https://lesscss.org)
+[![Sass](https://img.shields.io/badge/Sass-bf4080?logo=sass&logoColor=fff)](https://sass-lang.com)
 
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com)
 [![Github](https://img.shields.io/badge/Github-161B22?logo=github&logoColor=fff)](https://github.com)
