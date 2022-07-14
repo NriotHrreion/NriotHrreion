@@ -35,7 +35,7 @@ Hmmm... Windows11 is pretty good. Isn't it?
 ## Links
 
 - Website: [https://nin.red](https://nin.red)
-- Blog: [https://nriothrreion.github.io](https://nriothrreion.github.io)
+- Blog: [https://blog.nin.red](https://blog.nin.red)
 - Bilibili: [NriotHrreion](https://space.bilibili.com/167995410)
 - Github: [NriotHrreion](https://github.com/NriotHrreion)
 - Twitter: [@Nriot_McPack](https://twitter.com/Nriot_McPack)
