@@ -2,7 +2,7 @@
 
 # 欢迎来到NriotHrreion的主页
 
-等到癞蛤蟆变成金蟾蜍的时候，就能随便吃天鹅肉了
+Code the future.
 
 ![NriotHrreion's Github stats](https://github-readme-stats.vercel.app/api?username=NriotHrreion&show_icons=true)
 
@@ -37,7 +37,7 @@ Hmmm... Windows11 is pretty good. Isn't it?
 - Website: [https://nin.red](https://nin.red)
 - Blog: [https://blog.nin.red](https://blog.nin.red)
 - Bilibili: [NriotHrreion](https://space.bilibili.com/167995410)
-- Github: [NriotHrreion](https://github.com/NriotHrreion)
+- Github: [NriotHrreion](https://git.io/Jfcmp)
 - Twitter: [@Nriot_McPack](https://twitter.com/Nriot_McPack)
 
 ## E-mail
