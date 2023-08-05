@@ -27,8 +27,6 @@ Code the future.
 [![Windows11](https://img.shields.io/badge/Windows11-0078D7?logo=microsoft&logoColor=fff)](https://blogs.windows.com)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-F05000?logo=ubuntu&logoColor=fff)](https://ubuntu.com)
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff)](https://android.com)
-  
-Hmmm... Windows11 is pretty good. Isn't it?
 
 </div>
 
@@ -39,6 +37,7 @@ Hmmm... Windows11 is pretty good. Isn't it?
 - Bilibili: [NriotHrreion](https://space.bilibili.com/167995410)
 - Github: [NriotHrreion](https://git.io/Jfcmp)
 - Twitter: [@Nriot_McPack](https://twitter.com/Nriot_McPack)
+- HYCDGX服务器官网：[https://site.hycdgx.com](https://site.hycdgx.com)
 
 ## E-mail
 
