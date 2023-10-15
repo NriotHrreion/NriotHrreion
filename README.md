@@ -2,7 +2,7 @@
 
 # 欢迎来到NriotHrreion的主页
 
-社会实践是检验真理的唯一标准
+I think, therefore I am.
 
 ![NriotHrreion's Github stats](https://github-readme-stats.vercel.app/api?username=NriotHrreion&show_icons=true)
 
