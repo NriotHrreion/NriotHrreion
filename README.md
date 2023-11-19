@@ -31,7 +31,7 @@ I think, therefore I am.
 ## Links
 
 - Website: [https://nin.red](https://nin.red)
-- Blog: [https://blog.nin.red](https://blog.nin.red)
+- Blog: [https://nin.red/blog](https://nin.red/blog)
 - Bilibili: [NriotHrreion](https://space.bilibili.com/167995410)
 - Github: [NriotHrreion](https://git.io/Jfcmp)
 - Twitter: [@Nriot_McPack](https://twitter.com/Nriot_McPack)
