@@ -1,6 +1,6 @@
 <div align="center">
 
-# 欢迎来到NriotHrreion的主页
+# 欢迎来到NoahHrreion的主页
 
 I think, therefore I am.
 
@@ -30,12 +30,12 @@ I think, therefore I am.
 
 ## Links
 
-- Website: [https://nin.red](https://nin.red)
-- Blog: [https://nin.red/blog](https://nin.red/blog)
+- Website: [nin.red](https://nin.red)
+- Blog: [nin.red/blog](https://nin.red/blog)
 - Bilibili: [NriotHrreion](https://space.bilibili.com/167995410)
 - Github: [NriotHrreion](https://git.io/Jfcmp)
-- Twitter: [@Nriot_McPack](https://twitter.com/Nriot_McPack)
-- HYCDGX服务器官网：[https://site.hycdgx.com](https://site.hycdgx.com)
+- X: [@Nriot_McPack](https://twitter.com/Nriot_McPack)
+- HYCDGX服务器官网：[site.hycdgx.com](https://site.hycdgx.com)
 
 ## E-mail
 
