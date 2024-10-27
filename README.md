@@ -2,7 +2,7 @@
 
 # 欢迎来到NoahHrreion的主页
 
-I think, therefore I am.
+Colorless green ideas sleep furiously.
 
 ![NriotHrreion's Github stats](https://github-readme-stats.vercel.app/api?username=NriotHrreion&show_icons=true)
 
@@ -30,8 +30,8 @@ I think, therefore I am.
 
 ## Links
 
-- Website: [nin.red](https://nin.red)
-- Blog: [nin.red/blog](https://nin.red/blog)
+- Website: [nocp.space](https://nocp.space)
+- Blog: [nocp.space/blog](https://nocp.space/blog)
 - Bilibili: [NriotHrreion](https://space.bilibili.com/167995410)
 - Github: [NriotHrreion](https://git.io/Jfcmp)
 - X: [@Nriot_McPack](https://twitter.com/Nriot_McPack)
@@ -44,4 +44,4 @@ I think, therefore I am.
 
 ## 声明
 
-**搬运我的源码请注明原作者并在简介中放上我的网站：https://nin.red**
+**搬运我的源码请注明原作者并在简介中放上我的网站：https://nocp.space**
