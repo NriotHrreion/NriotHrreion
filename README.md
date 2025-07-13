@@ -1,6 +1,6 @@
 <div align="center">
 
-# 欢迎来到NoahHrreion的主页
+# 欢迎来到Norcleeh的主页
 
 Colorless green ideas sleep furiously.
 
@@ -33,7 +33,7 @@ Colorless green ideas sleep furiously.
 - Website: [nocp.space](https://nocp.space)
 - Blog: [nocp.space/blog](https://nocp.space/blog)
 - Bilibili: [NriotHrreion](https://space.bilibili.com/167995410)
-- Github: [NriotHrreion](https://git.io/Jfcmp)
+- Github: [Norcleeh](https://git.io/Jfcmp)
 - X: [@Nriot_McPack](https://twitter.com/Nriot_McPack)
 - HYCDGX服务器官网：[site.hycdgx.com](https://site.hycdgx.com)
 
