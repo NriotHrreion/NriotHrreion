@@ -34,7 +34,7 @@ Colorless green ideas sleep furiously.
 - Blog: [nocp.space/blog](https://nocp.space/blog)
 - Bilibili: [NriotHrreion](https://space.bilibili.com/167995410)
 - Github: [Norcleeh](https://git.io/Jfcmp)
-- X: [@Nriot_McPack](https://twitter.com/Nriot_McPack)
+- X: [@norcleeh](https://x.com/norcleeh)
 - HYCDGX服务器官网：[site.hycdgx.com](https://site.hycdgx.com)
 
 ## E-mail
