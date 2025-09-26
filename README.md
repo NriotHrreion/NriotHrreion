@@ -35,7 +35,7 @@ Colorless green ideas sleep furiously.
 - Bilibili: [NriotHrreion](https://space.bilibili.com/167995410)
 - Github: [Norcleeh](https://git.io/Jfcmp)
 - X: [@norcleeh](https://x.com/norcleeh)
-- HYCDGX服务器官网：[site.hycdgx.com](https://site.hycdgx.com)
+- OPanel 官网：[opanel.cn](https://opanel.cn)
 
 ## E-mail
 
@@ -44,4 +44,4 @@ Colorless green ideas sleep furiously.
 
 ## 声明
 
-**搬运我的源码请注明原作者并在简介中放上我的网站：https://nocp.space**
+**搬运我的源码请注明原作者并在简介中放上我的网站：<https://nocp.space>**
