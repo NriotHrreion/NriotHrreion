@@ -4,7 +4,9 @@
 
 Colorless green ideas sleep furiously.
 
-![NriotHrreion's Github stats](https://github-readme-stats.vercel.app/api?username=NriotHrreion&show_icons=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=NriotHrreion&show_icons=true&theme=dark)
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=NriotHrreion&theme=dark)
 
 [![JavaScript](https://img.shields.io/badge/Javascript-FFE70B?logo=Javascript&logoColor=fff)](https://javascript.com)
 [![TypeScript](https://img.shields.io/badge/Typescript-3178C6?logo=Typescript&logoColor=fff)](https://www.typescriptlang.org)
