@@ -2,7 +2,7 @@
 
 # 欢迎来到Norcleeh的主页
 
-Colorless green ideas sleep furiously.
+可以搞艺术，但是没必要
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=NriotHrreion&show_icons=true&theme=dark)
 
