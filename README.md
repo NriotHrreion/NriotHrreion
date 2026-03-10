@@ -11,6 +11,7 @@
 [![JavaScript](https://img.shields.io/badge/Javascript-FFE70B?logo=Javascript&logoColor=fff)](https://javascript.com)
 [![TypeScript](https://img.shields.io/badge/Typescript-3178C6?logo=Typescript&logoColor=fff)](https://www.typescriptlang.org)
 [![Java](https://img.shields.io/badge/Java-E61F24.svg?logo=java&logoColor=fff)](https://java.com)
+[![Rust](https://img.shields.io/badge/Rust-D34516?logo=Rust&logoColor=fff)](https://rust-lang.org)
 
 [![Node.js](https://img.shields.io/badge/Node.js-026E00?logo=node.js&logoColor=fff)](https://nodejs.org)
 [![Webpack](https://img.shields.io/badge/Webpack-175d96?logo=webpack&logoColor=fff)](https://webpack.js.org)
