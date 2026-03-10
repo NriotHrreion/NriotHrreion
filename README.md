@@ -2,7 +2,7 @@
 
 # 欢迎来到Norcleeh的主页
 
-可以搞艺术，但是没必要
+世界是苦难的，我又敲着我的代码出发了
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=NriotHrreion&show_icons=true&theme=dark)
 
