@@ -14,10 +14,10 @@
 [![Rust](https://img.shields.io/badge/Rust-D34516?logo=Rust&logoColor=fff)](https://rust-lang.org)
 
 [![Node.js](https://img.shields.io/badge/Node.js-026E00?logo=node.js&logoColor=fff)](https://nodejs.org)
-[![Webpack](https://img.shields.io/badge/Webpack-175d96?logo=webpack&logoColor=fff)](https://webpack.js.org)
 [![React.js](https://img.shields.io/badge/React.js-087EA4?logo=react&logoColor=fff)](https://react.dev)
 [![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=fff)](https://nextjs.org)
 [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-00BCFF?logo=tailwindcss&logoColor=fff)](https://tailwindcss.com)
+[![Tauri](https://img.shields.io/badge/Tauri-24c8db?logo=Tauri&logoColor=fff)](https://tauri.app)
 
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com)
 [![Github](https://img.shields.io/badge/Github-161B22?logo=github&logoColor=fff)](https://github.com)
