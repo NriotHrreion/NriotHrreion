@@ -20,15 +20,16 @@
 [![Tauri](https://img.shields.io/badge/Tauri-24c8db?logo=Tauri&logoColor=fff)](https://tauri.app)
 
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com)
-[![Github](https://img.shields.io/badge/Github-161B22?logo=github&logoColor=fff)](https://github.com)
 [![npm](https://img.shields.io/badge/npm-CB0000?logo=npm&logoColor=fff)](https://npmjs.com)
 [![pnpm](https://img.shields.io/badge/pnpm-F9AD00?logo=pnpm&logoColor=fff)](https://pnpm.io)
+[![oxc](https://img.shields.io/badge/oxc-16171D?logo=oxc&logoColor=32F3E9)](https://oxc.rs)
+[![vite](https://img.shields.io/badge/vite-16171D?logo=vite&logoColor=AA3BFF)](https://vite.dev)
 [![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?logo=gradle&logoColor=fff)](https://gradle.org)
 
+[![Github](https://img.shields.io/badge/Github-161B22?logo=github&logoColor=fff)](https://github.com)
 [![VSCode](https://img.shields.io/badge/VSCode-0078D4.svg?logo=vscode&logoColor=fff)](https://code.visualstudio.com)
 [![Intellij IDEA](https://img.shields.io/badge/IntelliJ_Idea-000.svg?logo=intellijidea&logoColor=fff)](https://jetbrains.com/idea)
 [![Docker](https://img.shields.io/badge/Docker-086DD7?logo=docker&logoColor=fff)](https://docker.com)
-[![Ollama](https://img.shields.io/badge/Ollama-fff.svg?logo=ollama&logoColor=000)](https://ollama.com)
 
 </div>
 
