@@ -46,10 +46,3 @@
 
 你猜我会回你的邮件吗? 😏🤔
 - [nriot233@gmail.com](mailto:nriot233@gmail.com)
-
-## Opensource Contributions
-
-- vinext: https://github.com/cloudflare/vinext/pull/2796 https://github.com/cloudflare/vinext/pull/2814 https://github.com/cloudflare/vinext/pull/2817 https://github.com/cloudflare/vinext/pull/2900 https://github.com/cloudflare/vinext/pull/2906 https://github.com/cloudflare/vinext/pull/2929
-- VSCode: https://github.com/microsoft/vscode/pull/205502 https://github.com/microsoft/vscode/pull/225500 https://github.com/microsoft/vscode/pull/282633
-- nodejs.org: https://github.com/nodejs/nodejs.org/pull/4139 https://github.com/nodejs/nodejs.org/pull/4174 https://github.com/nodejs/nodejs.org/pull/5346
-- oxc: https://github.com/oxc-project/oxc/pull/25280
