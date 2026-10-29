@@ -6,7 +6,7 @@
 
 [![GitHub Roast](https://ghfind.com/api/card/mini/nriothrreion?variant=radar&lang=zh)](https://ghfind.com/u/nriothrreion?ref=badge)
 
-<table>
+<!-- <table>
   <tr>
     <td width="50%">
       <img src="https://github-readme-stats-fast.vercel.app/api?username=NriotHrreion&show_icons=true&theme=dark" width="100%" />
@@ -15,7 +15,9 @@
       <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=NriotHrreion&theme=dark" width="100%" />
     </td>
   </tr>
-</table>
+</table> -->
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=NriotHrreion&show_icons=true&include_all_commits=true&theme=dark_github)
 
 [![JavaScript](https://img.shields.io/badge/Javascript-FFE70B?logo=Javascript&logoColor=fff)](https://javascript.com)
 [![TypeScript](https://img.shields.io/badge/Typescript-3178C6?logo=Typescript&logoColor=fff)](https://www.typescriptlang.org)
